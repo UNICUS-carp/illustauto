@@ -358,7 +358,7 @@ Error Rate Threshold Exceeded!
 
 ```bash
 # リポジトリのクローン
-git clone https://github.com/UNICUS-carp/illustauto.git
+git clone https://github.com/UNICUS-dev/illustauto.git
 cd illustauto
 
 # 依存関係のインストール
@@ -535,9 +535,9 @@ ISC License
 
 ## 👤 開発者
 
-UNICUS-carp
+UNICUS-dev
 
-- GitHub: [@UNICUS-carp](https://github.com/UNICUS-carp)
+- GitHub: [@UNICUS-dev](https://github.com/UNICUS-dev)
 - Email: akihiro210@gmail.com
 
 ## 🌟 このプロジェクトの意義
